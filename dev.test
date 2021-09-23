@@ -5,4 +5,8 @@ you are right
 
 =======
 Creating a new branch is simple` 
+<<<<<<< HEAD
 >>>>>>> 0363057 (fix:dev.test 1)
+=======
+really?
+>>>>>>> c153692 (fix:dev.test 1)
