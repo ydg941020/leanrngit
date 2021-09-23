@@ -1,4 +1,8 @@
 Creating a new branch is quick.
+<<<<<<< HEAD
 I don't believe you
 you are right
 
+=======
+Creating a new branch is simple` 
+>>>>>>> 0363057 (fix:dev.test 1)
